@@ -211,8 +211,17 @@ __marimo__/
 ._*
 .Spotlight-V100
 .Trashes
-ehthumbs.db
-Thumbs.db
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.fseventsd
+.TemporaryItems
+.apdisk
 Icon
 Icon?
 Icon*
+*Icon?
+*Icon*
+
+# Windows system files
+ehthumbs.db
+Thumbs.db
